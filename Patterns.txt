@@ -12,7 +12,7 @@ Pattern name                                    Problems                        
 10. Two Heaps                        |                                |                              |
 11. Subsets                          |                                |                              |
 12. Modified Binary Search           |                                |                              |
-13. Prefix Sum                       |                                |                              |
+13. Prefix Sum                       |                                |Completed                     |
 14. Bitwise XOR                      |                                |                              |
 15. Top 'K' elements                 |                                |                              |
 16. 0/1 Knapsack (DP)                |                                |                              |
