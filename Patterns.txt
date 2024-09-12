@@ -2,9 +2,9 @@ Pattern name                                    Problems                        
 -------------------------------------------------------------------------------------------------------------------------------
 1. Fast and Slow Pointer             |                                |                              |
 2. Merge Intervals                   |                                |                              |
-3. Sliding Window                    |                                |                              |
+3. Sliding Window                    |                                |                              |https://youtu.be/__guhvzO540?si=U7gtEx6WwNIAbS6P
 4. Islands (Matrix Traversal)        |                                |                              |
-5. Two Pointers                      |                                |                              |
+5. Two Pointers                      |                                |                              |https://youtu.be/2wVjt3yhGwg?si=gwbK6Hi9pQTZF5SZ
 6. Cyclic Sort                       |                                |                              |
 7. In-place reversal of Linked List  |                                |                              |
 8. Depth-First Search (DFS)          |                                |                              |
